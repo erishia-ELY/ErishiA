@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ4eHhzMmZsN2Z4eHhzMmZsN2Z4eHhzMmZsN2Z4eHhzMmZsN3/Wn0s0gIq0jLq/giphy.gif" width="180" />
+  <img src="https://www.pinterest.com/pin/49328558413994865/" width="180" />
   <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F56E9F&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+ErishiA+%E2%9C%8C;KMA+Student+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Digital+Forensics+Newbie+%F0%9F%9A%A9;Loves+Pink+Things+%26+Coding+%E2%99%A5" alt="Typing SVG" />
