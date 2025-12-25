@@ -24,12 +24,10 @@ Hehe, because I love **Elysia** and her transliteration is **Erishia** 😉.
 ## 🚩 CTF Write-ups (My Noob Journey)
 *Just a place where I document how I solved some beginner Forensic challenges.*
 
-| Challenge / Event | Link to Write-up |
-| :--- | :--- |
-| **Cookie Arena Forensics (Vie ver)** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/r1LCxjmXWe) |
-| **KCSC Recruitment 2026 (Vie ver)** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/rkwr72oMbe) |
-| **Cookie Arena Forensics (Eng ver)** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/BJhg2SqmWg) |
-| **KCSC Recuitment 2026 (Eng ver)** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/SJDKTSq7-g) |
+| Challenge / Event | Category | Language & Link |
+| :--- | :---: | :--- |
+| **Cookie Arena** | Forensics | [🇻🇳 Vietnamese](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/r1LCxjmXWe) \| [🇺🇸 English](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/BJhg2SqmWg) |
+| **KCSC Recruitment 2026** | Forensics | [🇻🇳 Vietnamese](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/rkwr72oMbe) \| [🇺🇸 English](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/SJDKTSq7-g) |
 
 
 ## Contact me ❤ (But do not spam pls 😢)
