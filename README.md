@@ -26,9 +26,10 @@ Hehe, because I love **Elysia** and her transliteration is **Erishia** 😉.
 
 | Challenge / Event | Link to Write-up |
 | :--- | :--- |
-| **Cookie Arena** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/r1LCxjmXWe) |
-| **KCSC Recruitment 2026** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/rkwr72oMbe) |
-| **Cookie Arena Forensics (Eng ver)** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/BJhg2SqmWg). |
+| **Cookie Arena Forensics (Vie ver)** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/r1LCxjmXWe) |
+| **KCSC Recruitment 2026 (Vie ver)** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/rkwr72oMbe) |
+| **Cookie Arena Forensics (Eng ver)** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/BJhg2SqmWg) |
+| **KCSC Recuitment 2026 (Eng ver)** | [Read on HackMD](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/SJDKTSq7-g) |
 
 
 ## Contact me ❤ (But do not spam pls 😢)
