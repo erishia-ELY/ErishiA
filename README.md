@@ -24,10 +24,10 @@ Hehe, because I love **Elysia** and her transliteration is **Erishia** 😉.
 ## 🚩 CTF Write-ups (My Noob Journey)
 *Just a place where I document how I solved some beginner Forensic challenges.*
 
-| Challenge / Event | Category | Language & Link |
+| Challenge / Event | Category | Write-up Link |
 | :--- | :---: | :--- |
-| **Cookie Arena** | Forensics | [🇻🇳 Vietnamese](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/r1LCxjmXWe) \| [🇺🇸 English](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/BJhg2SqmWg) |
-| **KCSC Recruitment 2026** | Forensics | [🇻🇳 Vietnamese](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/rkwr72oMbe) \| [🇺🇸 English](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/SJDKTSq7-g) |
+| **Cookie Arena** | `Forensics` | [![VN](https://img.shields.io/badge/Vie_Ver-F56E9F?style=flat-square&logo=hackmd&logoColor=white)](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/r1LCxjmXWe) [![ENG](https://img.shields.io/badge/Eng_Ver-blue?style=flat-square&logo=hackmd&logoColor=white)](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/BJhg2SqmWg) |
+| **KCSC Recruitment 2026** | `Forensics` | [![VN](https://img.shields.io/badge/Vie_Ver-F56E9F?style=flat-square&logo=hackmd&logoColor=white)](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/rkwr72oMbe) [![ENG](https://img.shields.io/badge/Eng_Ver-blue?style=flat-square&logo=hackmd&logoColor=white)](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/SJDKTSq7-g) |
 
 
 ## Contact me ❤ (But do not spam pls 😢)
