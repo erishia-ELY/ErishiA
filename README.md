@@ -47,7 +47,7 @@
   <a href="https://app.hackthebox.com/users/3010888">
     <img src="https://img.shields.io/badge/HackTheBox-181717?style=flat-square&logo=hackthebox&logoColor=F56E9F" />
   </a>
-  <a href="https://ctftime.org/profile"> <img src="https://img.shields.io/badge/CTFtime-181717?style=flat-square&logo=ctftime&logoColor=F56E9F" />
+  <a href="https://ctftime.org/user/245213"> <img src="https://img.shields.io/badge/CTFtime-181717?style=flat-square&logo=ctftime&logoColor=F56E9F" />
   </a>
   <a href="https://www.hackerrank.com/profile/lenhan27122007">
     <img src="https://img.shields.io/badge/HackerRank-181717?style=flat-square&logo=hackerrank&logoColor=F56E9F" />
