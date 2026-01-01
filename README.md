@@ -40,9 +40,9 @@
 ### 📊 my statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erishia-ELY&show_icons=true&theme=dark&hide_border=true&bg_color=181717&title_color=F56E9F&icon_color=F56E9F&text_color=ffffff" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Erishia-ELY&show_icons=true&theme=dark&hide_border=true&bg_color=181717&title_color=F56E9F&icon_color=F56E9F&text_color=ffffff&cache_seconds=1800" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erishia-ELY&layout=compact&theme=dark&hide_border=true&bg_color=181717&title_color=F56E9F&text_color=ffffff" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erishia-ELY&layout=compact&theme=dark&hide_border=true&bg_color=181717&title_color=F56E9F&text_color=ffffff&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
 <br/>
 ### 📞 contact me?
