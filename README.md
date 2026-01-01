@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Elysia.gif" width="100%" style="border-radius: 8px;"/>
+  <img src="Elysia.gif" width="80%" style="border-radius: 8px; box-shadow: 0px 0px 20px rgba(245, 110, 159, 0.3);"/>
   
   <br/><br/>
 
