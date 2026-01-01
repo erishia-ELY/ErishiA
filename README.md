@@ -37,14 +37,7 @@
 | **KCSC Recruitment 2026** | [![Read](https://img.shields.io/badge/read-F56E9F?style=flat-square)](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/rkwr72oMbe) | [![Read](https://img.shields.io/badge/read-363636?style=flat-square)](https://hackmd.io/@Se8o3rZORP6EsdJ-8q9kww/SJDKTSq7-g) |
 
 <br/>
-### 📊 my statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erishia-ELY&show_icons=true&theme=dark&hide_border=true&bg_color=181717&title_color=F56E9F&icon_color=F56E9F&text_color=ffffff&cache_seconds=1800" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erishia-ELY&layout=compact&theme=dark&hide_border=true&bg_color=181717&title_color=F56E9F&text_color=ffffff&cache_seconds=1800" height="150" alt="languages graph" />
-</div>
-<br/>
 ### 📞 contact me?
 
 <div align="center">
