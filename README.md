@@ -38,13 +38,37 @@
 
 <br/>
 
-### 📞 contact me?
+### 🕸️ hacker profile (training & ranking)
 
 <div align="center">
+  <a href="https://tryhackme.com/p/lenhan27122007">
+    <img src="https://img.shields.io/badge/TryHackMe-181717?style=flat-square&logo=tryhackme&logoColor=F56E9F" />
+  </a>
+  <a href="https://app.hackthebox.com/users/3010888">
+    <img src="https://img.shields.io/badge/HackTheBox-181717?style=flat-square&logo=hackthebox&logoColor=F56E9F" />
+  </a>
+  <a href="https://ctftime.org/profile"> <img src="https://img.shields.io/badge/CTFtime-181717?style=flat-square&logo=ctftime&logoColor=F56E9F" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/lenhan27122007">
+    <img src="https://img.shields.io/badge/HackerRank-181717?style=flat-square&logo=hackerrank&logoColor=F56E9F" />
+  </a>
+</div>
 
-[![Discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1103301973681385504)
-[![Facebook](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61579917031666)
-[![Email](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lenhan27122007@gmail.com)
-[![HackerRank](https://img.shields.io/badge/hackerrank-F56E9F?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lenhan27122007)
+<br/>
 
+### 📞 let's connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nhân-lê-0aaa51388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lenhan27122007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1103301973681385504">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61579917031666">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
 </div>
